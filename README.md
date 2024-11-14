@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yvonnekr
 - 👀 I’m interested in datascience.
-- 🌱 I’m currently learning computer vision modelling. 
+- 🌱 
 
 
 
